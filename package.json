@@ -1,0 +1,15 @@
+{
+  "name": "electron-course-alura",
+  "version": "1.0.0",
+  "description": "Tool developed during ElectronJs course (Alura). https://cursos.alura.com.br/course/electron ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Raphael Nunes",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^13.2.1"
+  }
+}
