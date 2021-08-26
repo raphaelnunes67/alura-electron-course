@@ -10,6 +10,8 @@
   "author": "Raphael Nunes",
   "license": "ISC",
   "dependencies": {
-    "electron": "^13.2.1"
+    "electron": "^13.2.1",
+    "jsonfile-promised": "0.0.1",
+    "moment": "^2.29.1"
   }
 }
